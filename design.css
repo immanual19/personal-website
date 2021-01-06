@@ -136,3 +136,6 @@ p{
 .fa{
     font-size:13px;
 }
+.feedback p,h3{
+    font-family: 'Redressed', cursive;;
+}
