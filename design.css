@@ -61,9 +61,6 @@ a{
 .oneThird img{
     width: 100%;
 }
-.heading{
-    text-align: center;
-}
 .textHighlight{
     color: rgb(241, 135, 103);
 }
@@ -109,10 +106,7 @@ h1{
 .conclusion{
 margin-left: 600px;
 }
-.dIcon{
-    width: 2px;
-    height: 2px;
-}
+
 .footerImg{
     width: 20px;
     height: 20px;
