@@ -1,9 +1,6 @@
 body{
     margin: 0%;
 }
-h1,h2{
-    font-family: 'Redressed', cursive;
-}
 .margining{
     margin-left: 8%;
 }
@@ -48,7 +45,7 @@ a{
     border-radius: 10px;
     color: white;
     font-weight: 700;
-    font-family: 'Redressed', cursive;
+
 }
 .heading{
     text-align: center;
@@ -112,7 +109,10 @@ h1{
 .conclusion{
 margin-left: 600px;
 }
-
+.dIcon{
+    width: 2px;
+    height: 2px;
+}
 .footerImg{
     width: 20px;
     height: 20px;
@@ -133,10 +133,4 @@ margin-left: 600px;
 }
 p{
     text-align: justify;
-}
-.fa{
-    font-size:13px;
-}
-.feedback p,h3{
-    font-family: 'Redressed', cursive;;
 }
